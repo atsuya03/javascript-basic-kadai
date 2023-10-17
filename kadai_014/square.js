@@ -1,6 +1,6 @@
 const price=(num)=>{
-  console.log(num**2)
+  return(num**2)
 }
 
-price(50);
+console.log(price(50));
 
